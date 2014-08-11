@@ -1,17 +1,14 @@
 {
-  "name": "immutable-cursors",
-  "version": "0.0.0",
+  "name": "immutable-with-cursors",
+  "version": "0.0.1",
   "description": "",
-  "main": "immutable-cursors.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "immutable-with-cursors.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:arnemart/immutable-cursors.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Arne Martin Aurlien <am@aurlien.net>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/arnemart/immutable-cursors/issues"
   },
