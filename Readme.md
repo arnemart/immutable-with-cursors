@@ -1,4 +1,10 @@
-# Immutable Data Collections With Cursors
+# DEPRECATED
+
+**Cursors have been added natively so this is no longer needed!**
+
+----
+
+## Immutable Data Collections With Cursors
 
 This is a simple wrapper around [Facebooks immutable data collection library](https://github.com/facebook/immutable-js), adding [Om](https://github.com/swannodette/om)-style cursors.
 
